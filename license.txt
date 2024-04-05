@@ -1,0 +1,11 @@
+Model Information:
+* title:	Resident Evil 3 - Green Herb (Potted)
+* source:	https://sketchfab.com/3d-models/resident-evil-3-green-herb-potted-1b1d108aa999474794315030795b1f5a
+* author:	Nicola Hynes (https://sketchfab.com/zNKHz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Resident Evil 3 - Green Herb (Potted)" (https://sketchfab.com/3d-models/resident-evil-3-green-herb-potted-1b1d108aa999474794315030795b1f5a) by Nicola Hynes (https://sketchfab.com/zNKHz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
